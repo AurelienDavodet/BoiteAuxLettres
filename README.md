@@ -36,8 +36,8 @@ Connect the components according to the schematic:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/connected_letterbox.git
-   cd connected_letterbox
+   git clone https://github.com/yourusername/Connected-Letterbox.git
+   cd Connected-Letterbox
 
 ### 3. Tutorial
 
